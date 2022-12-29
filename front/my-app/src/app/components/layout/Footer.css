@@ -1,0 +1,81 @@
+.contact-container {
+  max-width: 650px;
+  max-height: 650px;
+  position: relative;
+  width: 100%;
+}
+
+.contact-email {
+  float: right;
+  width: 45%;
+}
+
+.message-input,
+.email-input,
+.name-input {
+  line-height: normal;
+  background: none;
+  border: none;
+  color: white;
+  border-bottom: solid 2px white;
+  margin: 0em 0 1.875em 0;
+  padding: 0 0 0.875em 0;
+  width: 100%;
+}
+
+.contact-label {
+  color: inherit;
+}
+
+.message-input {
+  overflow: auto;
+  resize: none;
+  width: 100%;
+}
+
+.message-input:focus,
+.email-input:focus,
+.name-input:focus {
+  outline: none;
+  color: white;
+  padding: 0 0 0.875em 0;
+}
+
+.contact-message {
+  float: none;
+}
+
+.contact-name {
+  float: left;
+  width: 45%;
+}
+
+.contact-button {
+  letter-spacing: 3px;
+  text-transform: none;
+  overflow: visible;
+  background: none;
+  border: solid 2px white;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  outline: none;
+  padding: 10px 35px;
+  text-transform: uppercase;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.contact-submit {
+  text-align: center;
+}
+
+.contact-button:hover {
+  background: yellow;
+  color: black;
+}
