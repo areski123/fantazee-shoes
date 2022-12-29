@@ -87,30 +87,3 @@ E-commerce app building uses Django - Python web framework and rest API framewor
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Getting Started
-
-To get a local copy up and running follow this simple example step.
-   ```sh
-    git clone "the repository name"
-   ```
-
-### SETUP
-_Below is an instructions on installing and setting up the app._
-
-Required installation for Backend
-1. Install Python latest version - https://www.python.org/
-2. Install Python Virtual Environment - https://docs.python.org/3/tutorial/venv.html
-   ```sh
-    pip install -r requirements.txt
-    python manage.py runserver
-   ```
-Required installation for Frontend
-1. Install Node.js latest version - https://nodejs.org/en/
-   ```sh
-    npm i
-    npm start
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
