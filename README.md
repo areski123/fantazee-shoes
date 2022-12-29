@@ -1,10 +1,7 @@
 <a name="readme-top"></a>
 
-# Ethereal Shoes Shop
+# fantaze Shoes Shop
 
-<a href="https://etherealshoes.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Ethereal%20Shoes-282C34" alt="Site" margin="100px" height="35" />
-</a>
 &nbsp;
 
 <!-- TABLE OF CONTENTS -->
@@ -37,7 +34,7 @@
 
 ## About The Project
 
-E-commerce app building uses Django - Python web framework and rest API framework for the development backend part. The front end is built on React using Redux to manage local data. Using Axios to send requests to the server and receive responses from the server. The app has a responsive design and user-friendly interface. The backend is deployed on Render and the front is on Netlify.
+E-commerce app building uses Django - Python web framework and rest API framework for the development backend part. The front end is built on React using Redux to manage local data. Using Axios to send requests to the server and receive responses from the server. The app has a responsive design and user-friendly interface.
 
 ### Pictures
 <div>
